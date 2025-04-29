@@ -1,4 +1,5 @@
-🕵️‍♂️ Amazon Scraping Utility
+Amazon Scraper Top 50 Best Seller
+
 Welcome to one scraper shop for Amazon motherboard data!
 This tool helps you track prices, rankings, and seller info — whether you're chasing Best Sellers or analyzing a custom ASIN list.
 
